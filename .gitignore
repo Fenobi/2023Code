@@ -1,0 +1,50 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/x64/Debug
+/.vs/study1.3
+*.sln
+*.vcxproj
+*.filters
+*.user
+/.vs
+/OpenGT/.vs/OpenGT/v17
+/OpenGT/x64/Debug
+/OpenGT/.vs/OpenGT/FileContentIndex
+/study1.10/.vs/study1.10
+/study1.10/x64/Debug
+/study1.3/.vs/study1.3
+/study1.3/x64/Debug
+/study2.01/.vs/study2.01
+/study2.01/x64/Debug
+/study2.09/.vs/study2.09
+/study2.09/x64/Debug
