@@ -46,5 +46,12 @@
 /study1.3/x64/Debug
 /study2.01/.vs/study2.01
 /study2.01/x64/Debug
+
 /study2.09/.vs/study2.09
 /study2.09/x64/Debug
+*.vsidx
+*.lock
+*.pdb
+/stack_queue/.vs/stack_queue/v17
+/stack_queue/x64/Debug
+/study3.12/.vs/study3.12/v17
