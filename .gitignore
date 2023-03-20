@@ -57,3 +57,7 @@
 */.vs/study3.12/v17
 
 
+
+*.ipch
+*.suo
+*.db
