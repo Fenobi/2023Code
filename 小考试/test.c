@@ -199,3 +199,25 @@ void SelectSort(int* a, int n)
 //	printf("%f\n", y);
 //	return 0;
 //}
+
+#include <stdio.h>
+
+int main()
+{
+	char temp=0;
+	char light=1;
+	char a;
+	while (1)
+	{
+		if (temp++ >= 100)
+		{
+			temp = 0;
+			if (light++ >= 8)
+				light = 0;
+			else
+				a = 0x01 << light;
+		}
+	}
+	
+	return 0;
+}
