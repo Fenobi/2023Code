@@ -60,3 +60,4 @@
 *.db
 /*/.vs/*/v17
 /*/Debug
+/*/x64/Release
